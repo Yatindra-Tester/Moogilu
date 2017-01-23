@@ -1,0 +1,10 @@
+url,working_status,pageload_time_millisecond
+http://management.diggit.com/login,URL Working,1893
+http://analytics.diggit.com,URL Working,4405
+http://www.omdbapi.com/,URL Working,3099
+https://bitsnoop.com,URL Working,11841
+https://bitsnoop.com/api/latest_tz.php?t=all,URL Working,967
+http://dx-torrentez.com,URL Working,7399
+http://export.diggit.com/#/jobs,URL Working,3635
+http://imdb.com,URL Working,19187
+http://google.com,URL Working,2818
