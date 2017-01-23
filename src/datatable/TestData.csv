@@ -1,12 +1,10 @@
 url,working_status,pageload_time_millisecond
-http://management.diggit.com/login,URL Working,851
-http://analytics.diggit.com,URL Working,3725
-http://analytics.diggit.com/#/dashboard,URL Working,425
-http://www.omdbapi.com/,URL Working,1255
-https://torrentz2.eu,URL Working,8371
-https://bitsnoop.com,URL Working,5442
-https://bitsnoop.com/api/latest_tz.php?t=all,URL Working,1991
-http://dx-torrentez.com,URL Working,5063
-http://export.diggit.com/#/jobs,URL Working,1440
-http://imdb.com,URL Working,18292
-http://google.com,URL Working,3539
+http://management.diggit.com/login,URL Working,1893
+http://analytics.diggit.com,URL Working,4405
+http://www.omdbapi.com/,URL Working,3099
+https://bitsnoop.com,URL Working,11841
+https://bitsnoop.com/api/latest_tz.php?t=all,URL Working,967
+http://dx-torrentez.com,URL Working,7399
+http://export.diggit.com/#/jobs,URL Working,3635
+http://imdb.com,URL Working,19187
+http://google.com,URL Working,2818

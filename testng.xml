@@ -2,8 +2,8 @@
 <suite name="Suite" parallel="false">
 	<test name="Test">
 		<classes>
-			<class name="urlMonitoring.urlMonitoring" />
 			<class name="urlMonitoring.TC001" />
+			<class name="test.java.URL_001" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
